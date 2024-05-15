@@ -1,0 +1,20 @@
+
+11.11.2023 0:00:00 
+ Cond   Min   Max 
+   ff     0  1137 
+   fl   100  1236 
+   pt   119  1235 
+   lf     0   112 
+   ll     0   112 
+   tp     0    40 
+   tt     0    32 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     6 
+llLit     0     5 
+tpLit     0     1 
+ttLit     0     1 
+
+11.11.1111 0:00:00
+Object reference not set to an instance of an object.

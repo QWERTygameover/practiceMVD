@@ -1,0 +1,4 @@
+Путь до считываемого файла
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\sample.txt
+Путь к сохранению файла
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\result.txt

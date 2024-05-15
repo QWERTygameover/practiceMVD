@@ -1,0 +1,14 @@
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\linux-arm64\ConsoleApp1
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\linux-arm64\ConsoleApp1.deps.json
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\linux-arm64\ConsoleApp1.runtimeconfig.json
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\linux-arm64\ConsoleApp1.dll
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\linux-arm64\ConsoleApp1.pdb
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\linux-arm64\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\linux-arm64\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\linux-arm64\ConsoleApp1.AssemblyInfo.cs
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\linux-arm64\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\linux-arm64\ConsoleApp1.dll
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\linux-arm64\refint\ConsoleApp1.dll
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\linux-arm64\ConsoleApp1.pdb
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\linux-arm64\ConsoleApp1.genruntimeconfig.cache
+C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\linux-arm64\ref\ConsoleApp1.dll
