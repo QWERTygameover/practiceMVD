@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 using ConsoleApp1;
-
+//bd
 StreamReader configReader = null;
 string configURL;
 
