@@ -2,3 +2,6 @@
 C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\sample.txt
 Путь к сохранению файла
 C:\Users\KingGod\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\result.txt
+Срока подключения
+PERSIST SECURITY INFO=True;Connection Timeout=60;Data Source=(DESCRIPTION =(ADDRESS = (PROTOCOL = TCP)(HOST = HOME-PC)(PORT = 1521))(CONNECT_DATA =(SERVER = DEDICATED)(SERVICE_NAME = orcl))); User Id=SYS;Password=wAYTEK123;DBA Privilege=SYSDBA
+

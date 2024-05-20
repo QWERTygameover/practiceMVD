@@ -18,3 +18,890 @@ ttLit     0     1
 
 11.11.1111 0:00:00
 Object reference not set to an instance of an object.
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+An open Connection object is required to continue.
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-12154: TNS:could not resolve the connect identifier specified
+
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-12154: TNS:could not resolve the connect identifier specified
+
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-12154: TNS:could not resolve the connect identifier specified
+
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-01017: invalid username/password; logon denied
+
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-01005: null password given; logon denied
+
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-28009: ¿¿¿¿¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿¿ SYS ¿¿¿¿¿¿¿ ¿¿¿¿¿¿¿¿ ¿¿ ¿¿¿¿¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿¿ SYSDBA ¿¿¿ SYSOPER
+
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+Connection parameter not supported: 'DBA PRIVILEGE'
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-28009: ¿¿¿¿¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿¿ SYS ¿¿¿¿¿¿¿ ¿¿¿¿¿¿¿¿ ¿¿ ¿¿¿¿¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿¿ SYSDBA ¿¿¿ SYSOPER
+
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-28009: ¿¿¿¿¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿¿ SYS ¿¿¿¿¿¿¿ ¿¿¿¿¿¿¿¿ ¿¿ ¿¿¿¿¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿¿ SYSDBA ¿¿¿ SYSOPER
+
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-28009: ¿¿¿¿¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿¿ SYS ¿¿¿¿¿¿¿ ¿¿¿¿¿¿¿¿ ¿¿ ¿¿¿¿¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿¿ SYSDBA ¿¿¿ SYSOPER zzz
+
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-28009: ¿¿¿¿¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿¿ SYS ¿¿¿¿¿¿¿ ¿¿¿¿¿¿¿¿ ¿¿ ¿¿¿¿¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿¿ SYSDBA ¿¿¿ SYSOPER
+
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+The type initializer for 'OracleInternal.Common.ProviderConfig' threw an exception.
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+The type initializer for 'OracleInternal.Common.ProviderConfig' threw an exception.
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+The type initializer for 'OracleInternal.Common.ProviderConfig' threw an exception.
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-50007: Connection string is not well-formed
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-50000: Connection request timed out
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-50000: Connection request timed out
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-50000: Connection request timed out
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-50000: Connection request timed out
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-50000: Connection request timed out
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-50008: 'Database' is an invalid connection string attribute
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-50000: Connection request timed out
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-50000: Connection request timed out
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-50000: Connection request timed out
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-00984: употребление столбца здесь недопустимо
+https://docs.oracle.com/error-help/db/ora-00984/
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-00942: таблица или представление пользователя не существует
+https://docs.oracle.com/error-help/db/ora-00942/
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-00942: таблица или представление пользователя не существует
+https://docs.oracle.com/error-help/db/ora-00942/
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-00984: употребление столбца здесь недопустимо
+https://docs.oracle.com/error-help/db/ora-00984/
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00
+ORA-00984: употребление столбца здесь недопустимо
+https://docs.oracle.com/error-help/db/ora-00984/
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+20.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
