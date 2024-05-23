@@ -117,12 +117,14 @@ try
         Console.WriteLine("Успешно!");
         
         Thread.Sleep(TimeSpan.FromDays(1));
+        
     } while (true);
     
 }
 catch (Exception e)
 {
     Console.WriteLine("Ошибка! Работа прекращена");
+    Console.WriteLine(e);
     
     StreamWriter writer = new StreamWriter(savePath, true);
 

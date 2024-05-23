@@ -905,3 +905,1154 @@ lfLit     0     0
 llLit     0     0 
 tpLit     1     1 
 ttLit     1     1 
+
+23.05.2024 0:00:00
+Index was outside the bounds of the array.
+
+23.05.2024 0:00:00
+Index was outside the bounds of the array.
+
+23.05.2024 0:00:00
+Index was outside the bounds of the array.
+
+23.05.2024 0:00:00
+Index was outside the bounds of the array.
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
+
+23.05.2024 0:00:00 
+ Cond   Min   Max 
+   ff   929   929 
+   fl   903   903 
+   pt   908   908 
+   lf     0     0 
+   ll     0     0 
+   tp     0     0 
+   tt     0     0 
+ffLit     0     0 
+flLit     0     0 
+ptLit     0     0 
+lfLit     0     0 
+llLit     0     0 
+tpLit     1     1 
+ttLit     1     1 
