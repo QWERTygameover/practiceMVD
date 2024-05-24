@@ -83,6 +83,8 @@ try
         finalData.tplitMax = dates.Where(_=>_.date == dateTime).ToArray().MaxBy(_=>_.tpLit).tpLit;
         finalData.ttlitMax = dates.Where(_=>_.date == dateTime).ToArray().MaxBy(_=>_.ttLit).ttLit;
 
+        finalData.DateOfReport = dateTime.Date;
+        
         string result = $"\n{dateTime.Date} \n" +
                         $"{"Cond", 5} {"Min", 5} {"Max", 5} \n" +
                         $"{"ff", 5} {finalData.ffMin, 5} {finalData.ffMax, 5} \n" +
@@ -110,7 +112,7 @@ try
         
         Console.WriteLine("Успешно!");
         
-        Thread.Sleep(TimeSpan.FromSeconds(10));
+        Thread.Sleep(TimeSpan.FromDays(1));
         
     } while (true);
     
@@ -170,5 +172,5 @@ public class PortData
     public int tplitMax { get; set; }
     public int ttlitMin { get; set; }
     public int ttlitMax { get; set; }
-    public DateOnly DateOfReport { get; set; }
+    public DateTime DateOfReport { get; set; }
 }
