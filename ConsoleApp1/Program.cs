@@ -108,11 +108,11 @@ try
 
         writer.Close();
 
-        PostDataToDB(finalData);
+        //PostDataToDB(finalData);
         
         Console.WriteLine("Успешно!");
         
-        Thread.Sleep(TimeSpan.FromDays(1));
+        Thread.Sleep(TimeSpan.FromSeconds(10));
         
     } while (true);
     
